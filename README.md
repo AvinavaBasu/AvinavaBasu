@@ -1,8 +1,20 @@
-# Hi there! 👋 I'm Avinava Basu
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avinava%20Basu&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Web3+%26+Blockchain+Developer+%F0%9F%94%97;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Cryptocurrency+Enthusiast+%F0%9F%AA%99;DeFi+%26+Smart+Contract+Expert+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Staking+Services+Lead+%F0%9F%94%90;Validator+Infrastructure+Expert+%E2%9A%A1;ETH+%7C+SOL+%7C+BTC+Validator+Ops+%F0%9F%94%97;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Building+Secure+Staking+Infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+<div align="center">
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=AvinavaBasu&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/AvinavaBasu)
+  [![GitHub followers](https://img.shields.io/github/followers/AvinavaBasu?style=for-the-badge&logo=github)](https://github.com/AvinavaBasu)
+  [![GitHub stars](https://img.shields.io/github/stars/AvinavaBasu?style=for-the-badge&logo=github)](https://github.com/AvinavaBasu)
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
@@ -11,11 +23,13 @@ const avinava = {
     name: "Avinava Basu",
     location: "Bangalore, India 🇮🇳",
     company: "DevOn",
-    role: "Web3 & Cloud Solutions Architect",
-    expertise: ["Web3", "Blockchain", "Cryptocurrency", "Cloud Architecture"],
+    role: "Staking Services Lead & Web3 Architect",
+    expertise: ["Validator Operations", "Blockchain Staking", "Web3", "Cloud Architecture"],
     cloudPlatforms: ["GCP", "AWS", "Azure"],
-    currentlyWorking: "DeFi & Trading Solutions 📈",
-    interests: ["Blockchain Technology", "Smart Contracts", "Cloud Infrastructure", "DeFi"],
+    currentlyWorking: "Leading Staking Services & Validator Infrastructure 🔐",
+    specialization: ["ETH Validators", "Solana Validators", "Bitcoin Infrastructure"],
+    networks: ["Ethereum", "Solana", "Bitcoin", "Cosmos", "Polkadot"],
+    interests: ["Proof of Stake", "Validator Security", "Node Operations", "DeFi"],
     hobbies: ["🎵 Music", "📚 Reading", "🏋️ Fitness", "🎮 Gaming"],
     contactMe: "avinava89@gmail.com"
 };
@@ -59,12 +73,19 @@ const avinava = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🪙 Cryptocurrency & DeFi
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)
+### 🔐 Staking & Validator Infrastructure
+![Ethereum](https://img.shields.io/badge/Ethereum_Validator-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana_Validator-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![Bitcoin](https://img.shields.io/badge/Bitcoin_Node-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Cosmos](https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
+
+### 🪙 Staking Tools & Platforms
+![Lighthouse](https://img.shields.io/badge/Lighthouse-FF6B6B?style=for-the-badge&logoColor=white)
+![Prysm](https://img.shields.io/badge/Prysm-00D4AA?style=for-the-badge&logoColor=white)
+![Geth](https://img.shields.io/badge/Geth-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
@@ -75,7 +96,8 @@ const avinava = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinavaBasu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvinavaBasu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinavaBasu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -83,7 +105,17 @@ const avinava = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinavaBasu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinavaBasu&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinavaBasu/AvinavaBasu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinavaBasu/AvinavaBasu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AvinavaBasu/AvinavaBasu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -91,18 +123,85 @@ const avinava = {
   <img src="https://github-profile-trophy.vercel.app/?username=AvinavaBasu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
+## 📈 Detailed GitHub Metrics
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinavaBasu&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinavaBasu&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvinavaBasu&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AvinavaBasu&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinavaBasu&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AvinavaBasu&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+## 💪 Skills Proficiency
+
+```text
+Validator Operations  █████████████████████   98%
+Staking Infrastructure████████████████████░   95%
+Ethereum Validators   █████████████████████   97%
+Solana Validators     ████████████████████░   92%
+Cloud Architecture    ████████████████████░   92%
+Node Security         ████████████████████░   94%
+Smart Contracts       ███████████████████░░   90%
+DevOps & CI/CD        ███████████████████░░   90%
+Backend Development   ████████████████████░   93%
+Monitoring & Alerts   ████████████████████░   95%
+```
 
 ## 🎯 Current Focus
 
-- 🔭 **Working on:** DeFi protocols, Smart contract development, and Multi-cloud architectures
-- 🌱 **Learning:** Zero-knowledge proofs, Layer 2 scaling solutions, and Advanced cloud-native patterns
-- 👯 **Looking to collaborate on:** Web3 projects, DeFi protocols, and Cloud infrastructure
-- 💬 **Ask me about:** Blockchain development, Smart contracts, Cloud architecture, DeFi strategies
-- ⚡ **Fun fact:** I deploy smart contracts across multiple blockchains and orchestrate them with cloud infrastructure! 🔗
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🔭 Working On
+- Leading enterprise staking services
+- ETH validator infrastructure & operations
+- Solana validator node optimization
+- Bitcoin full node deployments
+- Multi-chain validator monitoring systems
+
+### 🌱 Learning
+- Advanced validator security hardening
+- MEV-Boost and proposer-builder separation
+- Distributed validator technology (DVT)
+- Solana Jito-Solana validators
+- Restaking protocols (EigenLayer)
+
+</td>
+<td valign="top" width="50%">
+
+### 👯 Open to Collaborate
+- Validator infrastructure projects
+- Staking pool development
+- Node monitoring solutions
+- Validator security audits
+- Cloud-based validator deployments
+
+### 💬 Ask Me About
+- Running ETH validators (solo/pool)
+- Solana validator operations
+- Bitcoin node architecture
+- Validator monitoring & alerting
+- Slashing protection strategies
+- Multi-cloud validator setups
+
+</td>
+  </tr>
+</table>
+
+### ⚡ Fun Facts
+- 🔐 Leading staking operations across Ethereum, Solana, and Bitcoin networks
+- ☁️ Managing 100+ validator nodes with 99.9% uptime across cloud platforms
+- 📊 Built automated monitoring systems that track validator performance 24/7
+- 🎯 Optimized validator operations to achieve top-tier APY for stakers
+- 💎 Implementing distributed validator technology for enhanced security
 
 ## 🌟 Featured Projects
 
@@ -116,11 +215,20 @@ const avinava = {
 ## 🤝 Connect with Me
 
 <div align="center">
-  
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinava89@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinava-basu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinava_basu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avinava.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avinava_basu)
+
+</div>
+
+<div align="center">
+
+### 💼 Open for opportunities in:
+**Staking Services** • **Validator Infrastructure** • **Node Operations** • **Blockchain Security** • **Cloud Solutions**
 
 </div>
 
@@ -137,9 +245,15 @@ const avinava = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AvinavaBasu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **Thanks for visiting! 😄**
-  
-  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### 💭 Wisdom of the Day
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+*"The best way to predict the future is to invent it."* – Alan Kay
+
+**Thanks for visiting! Let's build the decentralized future together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div> 
