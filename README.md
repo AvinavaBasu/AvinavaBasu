@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Web3+%26+Blockchain+Developer+%F0%9F%94%97;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Cryptocurrency+Enthusiast+%F0%9F%AA%99;DeFi+%26+Smart+Contract+Expert+%F0%9F%92%B0;Building+the+Decentralized+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Staking+Services+Lead+%F0%9F%94%90;Validator+Infrastructure+Expert+%E2%9A%A1;ETH+%7C+SOL+%7C+BTC+Validator+Ops+%F0%9F%94%97;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Building+Secure+Staking+Infrastructure+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,11 +23,13 @@ const avinava = {
     name: "Avinava Basu",
     location: "Bangalore, India 🇮🇳",
     company: "DevOn",
-    role: "Web3 & Cloud Solutions Architect",
-    expertise: ["Web3", "Blockchain", "Cryptocurrency", "Cloud Architecture"],
+    role: "Staking Services Lead & Web3 Architect",
+    expertise: ["Validator Operations", "Blockchain Staking", "Web3", "Cloud Architecture"],
     cloudPlatforms: ["GCP", "AWS", "Azure"],
-    currentlyWorking: "DeFi & Trading Solutions 📈",
-    interests: ["Blockchain Technology", "Smart Contracts", "Cloud Infrastructure", "DeFi"],
+    currentlyWorking: "Leading Staking Services & Validator Infrastructure 🔐",
+    specialization: ["ETH Validators", "Solana Validators", "Bitcoin Infrastructure"],
+    networks: ["Ethereum", "Solana", "Bitcoin", "Cosmos", "Polkadot"],
+    interests: ["Proof of Stake", "Validator Security", "Node Operations", "DeFi"],
     hobbies: ["🎵 Music", "📚 Reading", "🏋️ Fitness", "🎮 Gaming"],
     contactMe: "avinava89@gmail.com"
 };
@@ -71,12 +73,19 @@ const avinava = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🪙 Cryptocurrency & DeFi
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)
+### 🔐 Staking & Validator Infrastructure
+![Ethereum](https://img.shields.io/badge/Ethereum_Validator-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana_Validator-14F195?style=for-the-badge&logo=solana&logoColor=black)
+![Bitcoin](https://img.shields.io/badge/Bitcoin_Node-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Cosmos](https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
+
+### 🪙 Staking Tools & Platforms
+![Lighthouse](https://img.shields.io/badge/Lighthouse-FF6B6B?style=for-the-badge&logoColor=white)
+![Prysm](https://img.shields.io/badge/Prysm-00D4AA?style=for-the-badge&logoColor=white)
+![Geth](https://img.shields.io/badge/Geth-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
@@ -133,14 +142,16 @@ const avinava = {
 ## 💪 Skills Proficiency
 
 ```text
-Web3 & Blockchain     ████████████████████░   95%
-Smart Contracts       ███████████████████░░   90%
+Validator Operations  █████████████████████   98%
+Staking Infrastructure████████████████████░   95%
+Ethereum Validators   █████████████████████   97%
+Solana Validators     ████████████████████░   92%
 Cloud Architecture    ████████████████████░   92%
-DeFi Development      ██████████████████░░░   88%
+Node Security         ████████████████████░   94%
+Smart Contracts       ███████████████████░░   90%
 DevOps & CI/CD        ███████████████████░░   90%
 Backend Development   ████████████████████░   93%
-Frontend Development  █████████████████░░░░   85%
-Database Design       ███████████████████░░   88%
+Monitoring & Alerts   ████████████████████░   95%
 ```
 
 ## 🎯 Current Focus
@@ -150,45 +161,47 @@ Database Design       ███████████████████�
     <td valign="top" width="50%">
 
 ### 🔭 Working On
-- DeFi protocols & yield optimization
-- Smart contract auditing & security
-- Multi-chain bridging solutions
-- Cloud-native Web3 infrastructure
-- Trading bots & algorithmic strategies
+- Leading enterprise staking services
+- ETH validator infrastructure & operations
+- Solana validator node optimization
+- Bitcoin full node deployments
+- Multi-chain validator monitoring systems
 
 ### 🌱 Learning
-- Zero-knowledge proofs (ZK-SNARKs)
-- Layer 2 scaling solutions
-- Solana & Rust-based contracts
-- Advanced MEV strategies
-- WebAssembly for blockchain
+- Advanced validator security hardening
+- MEV-Boost and proposer-builder separation
+- Distributed validator technology (DVT)
+- Solana Jito-Solana validators
+- Restaking protocols (EigenLayer)
 
 </td>
 <td valign="top" width="50%">
 
 ### 👯 Open to Collaborate
-- Open-source Web3 projects
-- DeFi protocol development
-- NFT marketplace platforms
-- DAO governance systems
-- Cloud infrastructure automation
+- Validator infrastructure projects
+- Staking pool development
+- Node monitoring solutions
+- Validator security audits
+- Cloud-based validator deployments
 
 ### 💬 Ask Me About
-- Ethereum & EVM chains
-- Smart contract development
-- DeFi protocols & strategies
-- Multi-cloud architecture
-- Cryptocurrency trading
+- Running ETH validators (solo/pool)
+- Solana validator operations
+- Bitcoin node architecture
+- Validator monitoring & alerting
+- Slashing protection strategies
+- Multi-cloud validator setups
 
 </td>
   </tr>
 </table>
 
 ### ⚡ Fun Facts
-- 🔗 I deploy smart contracts across multiple blockchains simultaneously
-- ☁️ I orchestrate blockchain nodes with Kubernetes clusters
-- 📊 I analyze crypto markets with ML models on cloud platforms
-- 🎯 I've optimized gas costs by 70% through contract optimization
+- 🔐 Leading staking operations across Ethereum, Solana, and Bitcoin networks
+- ☁️ Managing 100+ validator nodes with 99.9% uptime across cloud platforms
+- 📊 Built automated monitoring systems that track validator performance 24/7
+- 🎯 Optimized validator operations to achieve top-tier APY for stakers
+- 💎 Implementing distributed validator technology for enhanced security
 
 ## 🌟 Featured Projects
 
@@ -215,7 +228,7 @@ Database Design       ███████████████████�
 <div align="center">
 
 ### 💼 Open for opportunities in:
-**Smart Contract Development** • **DeFi Architecture** • **Cloud Solutions** • **Blockchain Consulting**
+**Staking Services** • **Validator Infrastructure** • **Node Operations** • **Blockchain Security** • **Cloud Solutions**
 
 </div>
 
