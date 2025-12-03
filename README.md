@@ -22,7 +22,7 @@
 const avinava = {
     name: "Avinava Basu",
     location: "Bangalore, India 🇮🇳",
-    company: "DevOn",
+    company: "Pier Two",
     role: "Staking Services Lead & Web3 Architect",
     expertise: ["Validator Operations", "Blockchain Staking", "Web3", "Cloud Architecture"],
     cloudPlatforms: ["GCP", "AWS", "Azure"],
